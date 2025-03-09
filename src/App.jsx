@@ -12,7 +12,7 @@ function App() {
   <head>
     <meta charSet="UTF-8" />
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
-    <title>Nesiohelix Swinhoei</title>
+    <title>Nesiohelix</title>
   </head>
   <body>
     <div id="page">
